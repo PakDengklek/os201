@@ -1,4 +1,5 @@
 ---
+permalink: /URLs/
 ---
 
 # Selamat datang pada laman seputar Sistem Operasi
