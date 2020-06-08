@@ -7,9 +7,7 @@ TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum
 $ eval $PSTAMP
 200608-142905-35aa-UAS/>
 $ PS1="\$(eval \$PSTAMP)"
-200608-142910-019f-UAS/> date
-Mon Jun  8 14:29:12 WIB 2020
-200608-142912-f512-UAS/> ls -F
+200608-142910-019f-UAS/> ls -F
 0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt
 200608-142917-7c46-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
 200608-143022-9b8d-UAS/> cat SHA1SUM
