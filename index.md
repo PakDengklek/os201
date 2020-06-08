@@ -1,8 +1,12 @@
 ---
 ---
 
-# Haloo
+# Selamat datang di laman Github Page
 
+* Laman ini dibuat sebagai salah satu kriteria tugas Sistem Operasi
+
+
+# Profil
 
 * Nama : Alvin Hariman
 
