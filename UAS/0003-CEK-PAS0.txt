@@ -1,0 +1,29 @@
+Script started on Mon 08 Jun 2020 02:28:41 PM WIB
+alvin.hariman@badak:~/UAS$ PS1="$ "
+$ echo $GitHubUser
+PakDengklek
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-142905-35aa-UAS/>
+$ PS1="\$(eval \$PSTAMP)"
+200608-142910-019f-UAS/> date
+Mon Jun  8 14:29:12 WIB 2020
+200608-142912-f512-UAS/> ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt
+200608-142917-7c46-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+200608-143022-9b8d-UAS/> cat SHA1SUM
+02bb8f0b77a7c5152e830188db4e85056321754e  0000-mypub.txt
+4de162504cdd1a7ff121df437a390bf3f25d4a49  0001-mytest.txt
+23fb4247732d13b52ebbbc13d4b6fc91da2b2c20  0002-mytest.txt.asc
+200608-143030-848e-UAS/> gpg2 -sb -a SHA1SUM
+200608-143039-3b61-UAS/> ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt  SHA1SUM  SHA1SUM.asc
+200608-143044-eb14-UAS/> gpg2 --verify SHA1SUM.asc
+gpg: assuming signed data in 'SHA1SUM'
+gpg: Signature made Mon 08 Jun 2020 02:30:39 PM WIB using RSA key ID EF09F3EA
+gpg: Good signature from "Alvin Hariman <alvinhariman@protonmail.ch>" [ultimate]
+200608-143105-48a4-UAS/> exit
+exit
+
+Script done on Mon 08 Jun 2020 02:31:11 PM WIB
