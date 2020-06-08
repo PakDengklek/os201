@@ -3,7 +3,7 @@
 
 # Selamat datang di laman Github Page
 
-* Laman ini dibuat sebagai salah satu kriteria tugas Sistem Operasi
+Laman ini dibuat sebagai salah satu kriteria tugas Sistem Operasi
 
 
 # Profil
@@ -14,7 +14,7 @@
 
 * Angkatan : Quanta
 
-* Untuk mengecek mengenai link-link mengenai Sistem Operasi, silahkan mengunjungi [link](https://PakDengklek.github.io/os201/URLs/) berikut ini.
+Untuk mengecek mengenai link-link mengenai Sistem Operasi, silahkan mengunjungi [link](https://PakDengklek.github.io/os201/URLs/) berikut ini.
 
 
-* Jolan Tru !
+Jolan Tru !
