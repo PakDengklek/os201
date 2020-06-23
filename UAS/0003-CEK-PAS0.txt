@@ -1,27 +1,27 @@
-Script started on Mon 08 Jun 2020 02:28:41 PM WIB
-alvin.hariman@badak:~/UAS$ PS1="$ "
-$ echo $GitHubUser
+Script started on Tue 23 Jun 2020 02:22:18 PM WIB
+]0;alvin.hariman@badak: ~/UASalvin.hariman@badak:~/UAS$ echo $GitHubUser
 PakDengklek
-$ echo $PSTAMP
+]0;alvin.hariman@badak: ~/UASalvin.hariman@badak:~/UAS$ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200608-142905-35aa-UAS/>
-$ PS1="\$(eval \$PSTAMP)"
-200608-142910-019f-UAS/> ls -F
-0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt
-200608-142917-7c46-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
-200608-143022-9b8d-UAS/> cat SHA1SUM
-02bb8f0b77a7c5152e830188db4e85056321754e  0000-mypub.txt
-4de162504cdd1a7ff121df437a390bf3f25d4a49  0001-mytest.txt
-23fb4247732d13b52ebbbc13d4b6fc91da2b2c20  0002-mytest.txt.asc
-200608-143030-848e-UAS/> gpg2 -sb -a SHA1SUM
-200608-143039-3b61-UAS/> ls -F
-0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt  SHA1SUM  SHA1SUM.asc
-200608-143044-eb14-UAS/> gpg2 --verify SHA1SUM.asc
+]0;alvin.hariman@badak: ~/UASalvin.hariman@badak:~/UAS$ PS1="\$(eval \$PSTAMP)"
+200623-142238-6e26-UAS/> ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest-txt.asc  0003-CEK-PAS0.txt  SHA1SUM
+200623-142242-c675-UAS/> 00[K[Ksha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest-txt.asc > SHA1su[K[KSUM
+200623-142309-c9f3-UAS/> sha1sum -c SHA1SUM
+0000-mypub.txt: OK
+0001-mytest.txt: OK
+0002-mytest-txt.asc: OK
+200623-142318-9cb7-UAS/> GP[K[Kgpg2 -sb -a SU[KJA[K[KHA1SUM
+
+You need a passphrase to unlock the secret key for
+user: "Alvin Hariman <alvinhariman@protonmail.ch>"
+4096-bit RSA key, ID 2651AC72, created 2020-06-23
+
+[?1049h[1;30r(B[m[4l[?7h[?1h=[39;49m[39;49m[H[2J(B[m[10;32H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B(B[m[11;32H(0[0mx(B[0m Please enter the passphrase to unlock the secret key for the OpenPGP certificate:  (0[0mx(B(B[m[12;32H(0[0mx(B[0m "Alvin Hariman <alvinhariman@protonmail.ch>"[12;117H(0[0mx(B(B[m[13;32H(0[0mx(B[0m 4096-bit RSA key, ID 2651AC72,[13;117H(0[0mx(B(B[m[14;32H(0[0mx(B[0m created 2020-06-23.[14;117H(0[0mx(B(B[m[15;32H(0[0mx(B(B[m[15;117H(0[0mx(B(B[m[16;32H(0[0mx(B(B[m[16;117H(0[0mx(B(B[m[17;32H(0[0mx(B[0m Passphrase _______________________________________________________________________ (0[0mx(B(B[m[18;32H(0[0mx(B(B[m[18;117H(0[0mx(B(B[m[19;32H(0[0mx(B(B[m[19;45H(0[0m(B[0m<OK>[19;99H<Cancel>[19;117H(0[0mx(B(B[m[20;32H(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B(B[m[17;45H(0[0m(B(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m[30;1H[?1049l[?1l>200623-142341-daf6-UAS/> gpg2 --cer[K[K[Kverify SHA1SUM.asc[K[K[Kasc 
 gpg: assuming signed data in 'SHA1SUM'
-gpg: Signature made Mon 08 Jun 2020 02:30:39 PM WIB using RSA key ID EF09F3EA
+gpg: Signature made Tue 23 Jun 2020 02:23:41 PM WIB using RSA key ID 2651AC72
 gpg: Good signature from "Alvin Hariman <alvinhariman@protonmail.ch>" [ultimate]
-200608-143105-48a4-UAS/> exit
+200623-142413-b73a-UAS/> exit
 exit
 
-Script done on Mon 08 Jun 2020 02:31:11 PM WIB
+Script done on Tue 23 Jun 2020 02:24:17 PM WIB

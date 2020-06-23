@@ -1,26 +1,26 @@
-Script started on Wed 03 Jun 2020 11:16:21 PM WIB
-alvin.hariman@badak:~$ PS1="$ "
+Script started on Tue 23 Jun 2020 02:05:37 PM WIB
+]0;alvin.hariman@badak: ~/UASalvin.hariman@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 PakDengklek
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200603-231645-9286-alvin.hariman/>
+$ [K$ eval $PSTAMP
+200623-140621-a8cf-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
-200603-231652-85b3-alvin.hariman/> date
-Wed Jun  3 23:16:59 WIB 2020
-200603-231659-219e-alvin.hariman/> gpg2 --list-keys
+200623-140627-c172-UAS/> date
+Tue Jun 23 14:06:30 WIB 2020
+200623-140630-1bf7-UAS/> gpg2 --list-keys
 /home/fasilkom/mahasiswa/a/alvin.hariman/.gnupg/pubring.gpg
 -----------------------------------------------------------
-pub   4096R/EF09F3EA 2020-06-03
-uid       [ultimate] Alvin Hariman <alvinhariman@protonmail.ch>
-sub   4096R/8AB26677 2020-06-03
-
 pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
 uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
 sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 
-200603-231706-30c0-alvin.hariman/> exit
+pub   4096R/2651AC72 2020-06-23
+uid       [ultimate] Alvin Hariman <alvinhariman@protonmail.ch>
+sub   4096R/4C49B2C1 2020-06-23
+
+200623-140638-ec75-UAS/> exit
 exit
 
-Script done on Wed 03 Jun 2020 11:17:13 PM WIB
+Script done on Tue 23 Jun 2020 02:07:05 PM WIB
