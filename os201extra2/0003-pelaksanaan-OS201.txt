@@ -1,0 +1,34 @@
+Alvin Hariman / B / 1806205432 / PakDengklek
+
+Pelaksanaan OS201
+=================
+1. Pelaksanaan OS201 sebelum UTS
+   a. Terdapat kelas sebanyak 4 sks dalam seminggu yang dibagi menjadi 2 sks pada hari Senin (10.10 - 11.55) dan hari Rabu (10.10 - 11.55)
+   b. Mencoba dan mempelajari demo di luar kelas
+   c. Menanyakan masalah atau hal yang agak membingungkan di dalam kelas mengenai demo
+   d. Membahas soal-soal dari UTS sebelumnya
+   e. Mendapatkan poin partisipasi untuk setiap pertanyaan maupun mengerjakan soal tahun lalu
+   f. Membuat memo mengenai materi-materi yang telah dipelajari dalam seminggu
+
+2. Pelaksanaan OS201 selama UTS
+   a. UTS berjalan seperti biasa tanpa diundur
+   b. Soal UTS terdiri dari 6 topik dimana tiap topik merepresentasikan materi tiap minggu
+   c. Dapat membawa memo sebanyak 6 lembar
+   d. Waktu pengerjaan ujian adalah 150 menit
+
+3. Pelaksanaan OS201 setelah UTS
+   a. Melakukan migrasi dari pembelajaran di kelas menjadi di SCELE
+   b. Melakukan absen via SCELE
+   c. Dosen memberikan kata kunci berupa pertanyaan maupun script agar mahasiswa dapat mengeksplorasinya
+   d. Menanyakan tentang materi dengan membuat thread baru
+   e. Penjelasan demo disampaikan melalui Youtube
+   f. Mengadakan sesi zoom seminggu sebelum UAS
+
+4. Pelaksanaan OS201 selama UAS
+   a. Membuat PAS0 sebagai syarat untuk mengikuti UAS
+   b. Membagi tahapan UAS menjadi 5 tahap, yaitu Tahap I, Tahap II, Tahap III, Tahap IV, Tahap V
+   c. Setiap PAS memiliki durasi selama 1 hari
+   d. Pengerjaan UAS dilakukan secara berkelompok, kecuali untuk Tahap I
+   e. Sistem UAS dilakukan berdasarkan sistem eliminasi, dimana hanya mahasiswa yang berhasil melewati Tahap-N yang dapat melanjutkan ke Tahap-N+2
+      dan mahasiswa yang gagal Tahap-N diberikan kompensasi untuk lanjut hingga Tahap-N+1
+

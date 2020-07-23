@@ -1,0 +1,40 @@
+Alvin Hariman / B / 1806205432 / PakDengklek
+
+Komentar Mengenai Pelaksanaan OS201
+===================================
+1. Pelaksanaan OS201 sebelum UTS
+   Menurut saya, metode pembelajaran yang diterapkan cukup efektif untuk membagi mahasiswa yang memiliki niat untuk belajar dan juga mahasiswa yang tidak memiliki niat.
+   Dapat dilihat bahwa mahasiswa yang ingin belajar akan mempersiapkan materi terlebih dahulu dengan mencoba demo yang telah disediakan dan ketika di kelas mereka akan
+   aktif bertanya. Dengan begitu, mereka akan mendapatkan poin partisipasi. Poin partisipasi ini juga mendorong mahasiswa yang hanya mengincar nilai menjadi aktif untuk
+   mencari pertanyaan. Untuk pelaksanaan OS sebelum UTS, saya sendiri merasa cukup puas dengan metode yang telah diterapkan.
+
+2. Pelaksanaan OS201 selama UTS
+   Menurut saya, hal yang telah diterapkan selama UTS juga cukup bagus. Terdapatnya memo membuat mahasiswa menjadi mencatat materi-materi yang kemungkinan akan keluar pada
+   saat ujian. Dengan begitu, mahasiswa juga dapat belajar sambil mencatat materi ke dalam memo. Selain itu, memo juga membantu mahasiswa agar tidak mendapatkan nilai yang
+   cukup rendah.
+
+3. Pelaksanaan OS201 setelah UTS
+   Setelah UTS, metode pembelajaran OS berubah menjadi melalui SCELE. Pada saat itu, pembelajaran menjadi cukup susah karena tidak adanya tatap muka dalam pembelajaran. Pak
+   RMS pada saat itu ada mengusulkan untuk aktif bertanya di SCELE dengan membuat thread yang baru. Akan tetapi, hal tersebut mendapat respon yang cukup rendah dari mahasiswa.
+   Menurut pandangan saya, hal tersebut mungkin terjadi karena mahasiswa cenderung menjadi agak malas karena mereka berada di rumah. Hal tersebut berbeda ketika mahasiswa
+   berada di kelas sehingga mahasiswa bisa konsentrasi pada materi.
+
+   Pada mata kuliah lain, seperti Pemrograman Lanjut dan juga Analisis Numerik, dosen dari mata kuliah tersebut membuat metode pembelajaran dengan cara menggunakan Google Meet.
+   Menurut saya, hal tersebut terdapat hal positif serta negatif. Hal positif nya adalah mahasiswa dapat belajar dan bertanya secara langsung karena terdapatnya interaksi antara
+   mahasiswa dan dosen, berbeda dengan sistem pada mata kuliah Sistem Operasi dimana pertanyaan dilakukan dengan membuat thread pada SCELE. Akan tetapi, kekurangan dari sistem
+   pembelajaran ini menurut saya adalah dosen menyediakan rekaman sehingga banyak mahasiswa yang hanya bergabung di Google Meet tetapi mereka tidak memperhatikan apa yang
+   dijelaskan oleh dosen, dengan pikiran mereka dapat memutar kembali rekaman perkuliahan pada saat menjelang ujian.
+
+   Untuk mata kuliah TBA dan Sistem Cerdas, dosen merekam video pengajaran mereka. Untuk TBA, dosen menggunakan bantuan Powerpoint sedangkan untuk Sistem Cerdas, dosen menggunakan
+   bantuan PDF dan juga Microsoft Word. Mata kuliah tersebut juga memberikan tugas agar memotivasi mahasiswa untuk menonton rekaman tersebut untuk menjawab pertanyaan. Untuk
+   mata kuliah Sistem Cerdas, pertanyaan tersebut disebutkan di dalam rekaman sehingga mahasiswa harus menonton rekaman agar bisa mengetahui pertanyaannya. Menurut saya, hal ini
+   juga terdapat kelebihan dan kekurangannya. Kelebihannya mahasiswa menjadi lebih fleksibel mengenai kapan untuk belajar karena telah terdapatnya rekaman tersebut. Hal tersebut
+   juga sudah diterapkan di mata kuliah Sistem Operasi dimana terdapat video mengenai Demo pada Youtube. Sedangkan, kekurangan dari pembelajaran ini adalah seperti yang saya
+   sampaikan di atas bahwa rekaman cenderung membuat mahasiswa menjadi malas.
+
+   Untuk pembelajaran yang efektif, menurut saya dapat dapat dibuat sesi Google Meet untuk memfasilitasi mahasiswa yang ingin bertanya. Untuk mahasiswa yang memiliki kendala pada
+   internet, dapat disediakan video rekaman agar mereka juga dapat belajar ketika memiliki waktu. Untuk mencegah mahasiswa agar dapat belajar tanpa menunda waktu, dosen dapat
+   memberikan waktu seberapa lama rekaman tersebut akan dipublish. Misalkan rekaman kuliah hanya akan dipublish selama seminggu, sehingga hal tersebut dapat membuat mahasiswa
+   mempelajari materi tidak pada saat mendekati ujian
+
+Nb : Untuk analisis pelaksanaan OS201 selama UAS akan dibahas lebih lanjut pada besok hari. 
