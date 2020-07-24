@@ -37,4 +37,33 @@ Komentar Mengenai Pelaksanaan OS201
    memberikan waktu seberapa lama rekaman tersebut akan dipublish. Misalkan rekaman kuliah hanya akan dipublish selama seminggu, sehingga hal tersebut dapat membuat mahasiswa
    mempelajari materi tidak pada saat mendekati ujian
 
-Nb : Untuk analisis pelaksanaan OS201 selama UAS akan dibahas lebih lanjut pada besok hari. 
+4. Pelaksanaan OS201 selama UAS
+   Pada pelaksanaan UAS, saya merasa cara yang dipakai kurang efektif. UAS pada Sistem Operasi dilakukan dengan membentuk kelompok dengan jumlah 7-8 orang dan
+   melakukan tugas dengan batas waktu selama 1 hari. Hal ini menurut saya kurang efektif karena akan menimbulkan banyaknya free rider pada suatu kelompok. Mungkin
+   dengan mengurangi jumlah kelompok atau menambah beban dari tugas dapat mengurangi adanya free rider.
+
+   Jika dilihat dari UAS mata kuliah lain, seperti mata kuliah Sistem Cerdas dimana sistemnya adalah closed book dengan tipe soal essay dan dikerjakan dalam waktu
+   3 jam. Jika dilihat dari pandang saya, metode ujian tidak terdapat sisi positifnya karena metode tersebut tidak membantu apa-apa, terutama closed book karena
+   tidaklah mungkin kita bisa mempercayai bahwa mahasiswa tidak akan menyontek jika tidak ada yang mengawasi. Walaupun dosen menghapus slide-slide perkuliahan yang
+   terdapat di SCELE dan juga melakukan tandatangan perjanjian untuk berlaku jujur, itu tidaklah membantu mahasiswa untuk berlaku jujur sama sekali.
+
+   Untuk mata kuliah Analisis Numerik dan TBA, tipe soal nya adalah essay dan juga membuat code / mesin. Ujian dilaksanakan dalam waktu 3 jam. Untuk mencegah
+   adanya kecurangan pada mahasiswa, ujian kedua mata kuliah tersebut ditingkatkan kesulitannya. Untuk mata kuliah Analisis Numerik, dosen memberikan banyak
+   soal yang tidak pernah diajarkan sebelumnya sehingga membuat mahasiswa harus googling untuk mencari jawaban selama ujian. Hal tersebut membuat nilai UAS pada
+   mata kuliah tersebut jatuh dengan rata-rata untuk semua kelas kira-kira 30an saja. Untuk mata kuliah TBA, soal yang diberikan cukup banyak dan juga terdapat
+   banyak soal yang meminta mahasiswa untuk membuat mesin sehingga membuat mahasiswa susah untuk berdiskusi. Hal positif dari metode kedua mata kuliah tersebut
+   adalah metode tersebut dapat mencegah mahasiswa untuk berdiskusi dengan mahasiswa lain. Hal negatif nya adalah bakal terdapat mahasiswa yang dari awal memiliki
+   niat jujur tetapi tidak memiliki waktu yang cukup untuk menyelesaikan semua soal sehingga nilai mereka menjadi rendah.
+
+   Untuk mata kuliah Pemrograman Lanjut, ujian dilaksanakan menggunakan SCELE dengan soal lebih cenderung melakukan analisis terhadap project akhir kita serta melakukan
+   analisis terhadap beberapa codingan. Hal positif dari ujian ini adalah mahasiswa sama sekali tidak dapat berdiskusi dengan orang lain karena tiap orang memiliki project
+   akhir yang berbeda. Walaupun ada kemungkinan untuk berdiskusi antar kelompok mengenai project akhir (project akhir dilakukan secara berkelompok dengan anggota 3-4 orang),
+   kemungkinan hal tersebut juga minim karena tiap orang memiliki tugas yang berbeda-beda karena scope dari project akhir yang cukup besar. Hal negatif nya adalah karena
+   ada tipe soal menganalisis code sehingga hal tersebut dapat memberikan ruang bagi mahasiswa untuk bekerja sama.
+
+   Dari analisis UAS dari semua matkul saya, saya merasa UAS dapat dilakukan dalam bentuk tugas akhir yang terdiri dari mungkin 2-3 orang saja. Dengan begitu, walaupun durasi
+   yang diberikan adalah 1 hari, hal tersebut dapat membuat mahasiswa kesulitan untuk berdiskusi dengan mahasiswa lain karena tugas akhir mereka yang berbeda-beda.
+
+   Sekian analisis saya dari pelaksanaan OS201 pada semester ini.
+
+   Terima kasih
