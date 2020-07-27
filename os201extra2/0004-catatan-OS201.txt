@@ -64,6 +64,54 @@ Komentar Mengenai Pelaksanaan OS201
    Dari analisis UAS dari semua matkul saya, saya merasa UAS dapat dilakukan dalam bentuk tugas akhir yang terdiri dari mungkin 2-3 orang saja. Dengan begitu, walaupun durasi
    yang diberikan adalah 1 hari, hal tersebut dapat membuat mahasiswa kesulitan untuk berdiskusi dengan mahasiswa lain karena tugas akhir mereka yang berbeda-beda.
 
+Analisis Pelaksanaan OS201 Berdasarkan Kuisioner
+================================================
+1. Pelaksanaan UAS
+   a. Tahap Persiapan UAS
+      - Semua responden telah menyelesaikannya
+      - 17.3% dari responden mengalami kendala
+
+      Kendala :
+      - Kurang mengerti apa yang harus dilakukan
+      - Kurang mengerti cara melakukan enkripsi
+      - Server badak mengalami kendala
+      - Tidak pernah membuat script
+
+      Kelebihan :
+      - Cukup mudah untuk dikerjakan
+      - Bobot nilai yang dapat dibilang cukup tinggi jika dibandingkan dengan tingkat kesulitannya
+      - Mudah untuk dikerjakan karena sudah terdapat langkah-langkahnya di SCELE
+      - Waktu yang diberikan cukup lama
+
+      Dari pernyataan responden, dapat disimpulkan bahwa tahap ini cukup gampang dikerjakan karena tahap-tahap pengerjaan dapat dilihat di SCELE sedangkan mahasiswa yang
+      mengalami kendala mungkin karena tidak pernah membuka SCELE atau tidak pernah mencoba demo sehingga kurang mengerti cara membuat script.
+
+   b. Tahap I
+      - Semua responden menyeesaikan tahap ini
+      - 32.1% dari responden mengalami kendala
+
+      Kendala :
+      - Jaringan yang kurang baik
+      - Terjadi race condition pada saat absen dan push berkas ke github
+      - Kurang familiar dengan github
+      - Perbedaan format berkas apabila dikerjakan di luar badak
+
+      Kelebihann :
+      - Terdapat dokumentasi
+      - Adanya contoh github page, cbkadal
+      - Mengerti dan dapat mengimplementasikan scripting
+      - Menjadi mengerti cara membuat endpoint pada github page
+      - Mendorong mahasiswa untuk berkreasi pada github page
+
+      Dari pernyataan responden, dapat disimpulkan bahwa pada tahap ini, mahasiswa banyak belajar tentang pembuatan github page dan juga mereka dapat mengimplementasikan pembuatan script.
+      Untuk kendalanya, untuk jaringan yang kurang baik, mungkin dapat diatasi dengan mempelajari soal dan juga mencari tahu cara pengerjaannya sehingga ketika jaringan membaik, mahasiswa
+      dapat langsung mengimplementasikannya tanpa harus googling lagi. Untuk format berkas, dari dosen telah memberikan saran dan larangan pada SCELE sehingga mahasiswa yang melakukan
+      kesalahan format mungkin jarang mengecek thread pada SCELE. Untuk race condition, mahasiswa dapat melakukan cek ulang pada file absen secara berkala berhubung deadline yang diberikan
+      adalah 1 hari sehingga mahasiswa memiliki waktu yang banyak untuk mengecek ulang file-file yang telah dikerjakan / di push
+
+   c. Tahap II
+      (Akan dilanjutkan besok)
+
    Sekian analisis saya dari pelaksanaan OS201 pada semester ini.
 
    Terima kasih
