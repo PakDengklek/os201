@@ -148,10 +148,60 @@ Analisis Pelaksanaan OS201 Berdasarkan Kuisioner
 
    e. Tahap IV
       - 37% dari responden mengikuti tahap IV, 35.8% dari responden mengumpulkannya.
+      - 22.2% dari responden mengalami kendala
 
       Kendala :
-      - 
+      - Masalah koordinasi revisi sehingga terjadi perbedaan versi
+      - File-file di folder UAS-Pribadi dan UAS-Bersama yang harus terus disesuaikan cukup membingungkan dan harus terus menerus mengecek dengan repository cbkadal
+      - Saat menambahkan akun github sebanyak jumlah anggota kelompok dalam code nya, terjadi sedikit error pada outputnya.
 
-   Sekian analisis saya dari pelaksanaan OS201 pada semester ini.
+      Kelebihan :
+      - Bobot pengerjaan sesuai dengan materi dan waktu
+      - Merupakan tugas kelompok sehingga bisa saling membantu
+      - Mengerti cara menggunakan semaphore synchronous
+      - Ada beberapa method yang bisa diambil dan dimodifikasi dari tahap sebelumnya
+      - Ada penjelasan tentang apa yang harus dikerjakan
 
-   Terima kasih
+      Dari pernyataan responden, untuk kendalanya, perbedaan versi seharusnya dapat dimaklumi karena untuk pengerjaannya sudah diberi waktu 1 hari dan sepengetahuan saya dosen tidak pernah
+      melakukan revisi ketika mendekati deadline. Untuk masalah file, juga dapat dicek secara berkala berhubung deadline 1 hari.
+
+   f. Tahap V
+      - 22.2% dari responden mengikuti tahap V, 17.3% dari responden menyelesaikannya
+      - 19.8% dari responden mengalami kendala
+
+      Kendala :
+      - Kurang pemahaman mengenai FUSE
+      - Kurang mengerti perintah soal dan sulit memahami berkas yang diberikan
+      - File yang dikumpulkan tidak terdeteksi
+
+      Kelebihan :
+      - Mengerti cara mengimplentasikan FUSE
+      - Mudah jika mengerti FUSE
+      - Terdapat dokumentasi mengenai FUSE
+
+      Dari pernyataan responden, walaupun hampir semua yang mengikuti tahap V mengalami kendala, tetapi jika dilihat dari komentar positif dari beberapa mahasiswa ternyata soal FUSE dapat
+      dikerjakan jika memahami materi tentang FUSE. Oleh karena itu, menurut saya seharusnya aktif bertanya mengenai FUSE ketika memiliki waktu
+
+Kritik Secara Keseluruhan
+=========================
+Jika dilihat dari analisis dari saya dan juga pernyataan dari responden, dapat disimpulkan beberapa poin :
+- Pelaksanaan UAS OS yang terlalu lama sehingga membebani mahasiswa yang ada mengikuti intern dan sejenisnya
+- Terdapat beberapa mahasiswa yang kurang bisa belajar secara otodidak
+- Terdapatnya free rider pada kelompok karena jumlah anggota yang banyak pada 1 kelompok
+
+Saran Secara Keseluruhan
+========================
+Jika dilihat dari analisis dari saya, dapat disimpulkan beberapa poin :
+- Pelaksaan dapat dilakukan setelah UAS, akan tetapi jumlah tahapannya dapat dipotong sehingga tidak memakan waktu yang sangat lama
+- Sebaiknya pembentukan kelompok tidak dalam jumlah yang banyak, walaupun pengoreksian akan menjadi lama, akan tetapi jika dilakukan cutoff pada jumlah tahapan seharusnya dapat menjadi seimbang
+- UAS dapat dibuat dalam bentuk project dengan batas waktu 3-4 bulan, dan selama UAS dapat dibuat soal mengenai pehamanan mereka mengenai project mereka yang telah mereka kerjakan, seperti UAS
+  pada mata kuliah Pemrograman Lanjut
+- UAS juga boleh dilaksanakan seperti kelas D/E dimana pengerjaan dilakukan secara berkelompok dengan durasi 2 hari dan materi telah mencakup semuanya. Menurut saya hal tersebut lebih efisien
+  dari sisi mahasiswa maupun dosen
+
+
+
+
+Sekian analisis saya dari pelaksanaan OS201 pada semester ini
+
+Terima kasih
