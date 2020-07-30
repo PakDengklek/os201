@@ -216,28 +216,26 @@ b. FUSE
    mengimplementasikan file system, 
 
 c. Git
-   Git merupakan sebuah version control system yang digunakan oleh para developer untuk mengembangkan software bersama developer lain. Fungsi git adalah untuk mengatur versi dari source code
-   dengan memberi tanda pada baris dan code mana yang ditambah atau dihapus.
-   Perintah-perintah dasar git:
-   Git init : membuat repository pada file lokal
-   Git status : mengecek file-file yang telah diedit
-   Git add : menambahkan file yang telah diedit pada local repository
-   Git commit : menyimpan perubahan yang dilakukan pada local repository
-   Git push : mengirimkan perubahan file yang ada pada local repository ke remote repository
-   Git branch : melihat branch yang ada pada repository
-   Git checkout : berpindah branch dari branch sekarang ke branch lain
-   Git merge : menggabungkan branch dengan branch lain
-   Git clone : membuat salinan dari remote repository ke local repository
+   Git merupakan version control system dimana digunakan oleh developer untuk merancang software bersama developer lain. Fungsi utama dari git adalah untuk mengatur versi dari code pada sebuah
+   software dengan menandai code-code yang berubah, baik dihapus maupun ditambah.
+   Perintah dasar Git :
+   - Git init : membuat repository pada folder lokal
+   - Git status : mencatat file-file yang mengalami perubahan
+   - Git add : menambahkan file-file yang telah berubah pada local repository yang dipilih
+   - Git commit : menyimpan perubahan yang dilakukan pada local repository
+   - Git push : mengirimkan perubahan-perubahan yang terjadi pada local repository pada remote repository
+   - Git branch : melihat branch-branch yang ada pada repository
+   - Git checkout : berpindah dari branch saat ini ke branch lain
+   - Git merge : menggabungkan suatu branch dengan branch lain
+   - Git clone : membuat salinan dari remote repository
 
 d. GitHub
-   GitHub adalah sebuah aplikasi berbasis website dengan Version Control System (VCS) yang menyediakan layanan untuk menyimpan repository dengan gratis
+   GitHub merupakan suatu aplikasi berbasis online dengan Version Control System (VCS) yang menyediakan layanan berupa remote repository secara gratis.
 
 e. GitHub Page
-   Github Page merupakan fasilitas hosting web statis pada github dengan subdomain .github.io. Github Pages dapat digunakan untuk membuat dokumentasi
-   Github page dapat dilakukan dengan beberapa cara :
-   - Github page dari Root repo
-   - Github page di folder
-   - Github page di branch gh-page
+   GitHub Page merupakan fasilitas hosting web statis yang diberikan secara gratis oleh GitHub dengan domain .github.io yang dapat digunakan untuk membuat dokumentasi mengenai project yang
+   ada di GitHub
+   Cara mempublikasikan halaman web pada 
 
 Sekian analisis saya dari pelaksanaan OS201 pada semester ini
 
