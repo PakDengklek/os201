@@ -239,6 +239,41 @@ e. GitHub Page
    - Github page di folder
    - Github page di branch gh-page
 
+f. SHA1SUM
+   Merupakan sebuah algoritma hashing yang sering digunakan untuk mengekripsi data. Hasil dari sha1 adalah data dengan panjang 20 byt
+
+g. SHA1SUM.asc
+   Format .asc merupakan sebuah format yang digunakan untuk melakukan enkripsi pada data-data seperti PGP. File tersebut berisi pesan yang ditandangani secara digital dan dapat mengekripsi data-data
+   dalam bentuk teks. File hasil enkripsi .asc juga menyertakan key sehingga dapat diverifikasi menggunakan metode otentikasi. Sehingga dapat disimpulkan bahwa SHA1SUM.asc merupakan hasil enkripsi
+   dari SHA1SUM dan file tersebut dapat diverifikasi dan didekripsi untuk melihat isinya.
+
+Bahas dari sudut pandang peserta OS201, berkas berikut ini:
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+===============================================================================
+a. Tantangan
+   Penyelenggaraan perkuliahan secara keseluruhan emanglah sulit. Terdapat banyak tantangan yang harus diselesaikan, mulai dari mahasiswa yang terbatas pada kuota hingga tidak adanya interaksi
+   antara dosen dan mahasiswa secara tatap muka. Saya mengerti perasaan bapak bahwa kita tidak pernah bisa tahu apakah mahasiswa juga berlaku jujur selama ujian atau tidak. Oleh karena itu, saran
+   dari saya adalah dapat dibuat kelompok dengan anggota yang sedikit dengan 3-4 per kelompok, setelah itu dapat diberi sebuah tugas dengan topik tertentu dan dibuat dari 0. Dengan begitu,
+   mahasiswa hanya dapat bekerjasama dengan kelompok sendiri saja dan menghindari adanya kerjasama dalam skala besar.
+
+b. Study From Home
+   Jika dilihat dari yang telah saya alami selama Study From Home, saya merasa sangat susah untuk mengatur waktu untuk belajar sebagaimana biasanya di fakultas karena ketika di fakultas kita
+   diwajibkan untuk menghadiri kelas sehingga mahasiswa bisa fokus pada pembelajaran. Sedangkan ketika di rumah, mahasiswa menjadi terdistraksi untuk melakukan hal lain sehingga banyak waktu
+   yang habis bukan untuk belajar. Ide saya adalah dosen dapat memberikan beberapa tugas dan diberi deadline sehingga mahasiswa dapat fokus untuk belajar
+
+c. Windows 10 & Font
+   Saya merasa bahwa penggunaan badak itu enak, akan tetapi jika digunakan sebagai media untuk melaksanakan UAS menurut saya hal itu kurang cocok karena badak sering down ketika diakses oleh
+   orang yang terlalu banyak, sehingga mungkin pelaksanaan ujian dapat menggunakan Linux / WSL 2 / VirtualBox saja.
+
+d. WhatsApp Group
+   Menurut saya, adanya WhatsApp Group sangat berguna selama pembelajaran OS karena banyak tugas diumumkan lewat WhatsApp. Untuk masalah bapak mengenai tanya jawab harus melalui SCELE, menurut
+   saya mahasiswa cenderung bertanya di WhatsApp Group karena ketika ada chat masuk, akan ada notif sehingga mahasiswa dapat langsung mengeceknya, berbeda dengan SCELE dimana tidak terdapatnya
+   notifikasi sehingga mahasiswa menjadi tidak tahu apakah pertanyaan mereka sudah dijawab atau belum
+
+e. Email
+   Email juga sangat membantu ketika mahasiswa mengalami masalah teknis maupun ketika mahasiswa mau berdiskusi mengenai nilai dimana hal tersebut dapat dibilang privasi dan tidak mungkin disampaikan
+   melalui WhatsApp Group maupun thread di SCELE
+
 Sekian analisis saya dari pelaksanaan OS201 pada semester ini
 
 Terima kasih
