@@ -274,6 +274,70 @@ e. Email
    Email juga sangat membantu ketika mahasiswa mengalami masalah teknis maupun ketika mahasiswa mau berdiskusi mengenai nilai dimana hal tersebut dapat dibilang privasi dan tidak mungkin disampaikan
    melalui WhatsApp Group maupun thread di SCELE
 
+f. Zoom
+   Penggunaan zoom seminggu sebelum UAS cukup membantu karena disana kita membahas alur-alur yang akan diterapkan pada UAS OS
+
+g. Scripting
+   Scripting sangat banyak digunakan selama OS baik untuk belajar maupun sebagai sarana pada saat pelaksanaan UAS OS. Namun, banyak mahasiswa yang tidak mengerti scripting sehingga mereka hanya
+   mencopy paste script tanpa mengetahui fungsi-fungsinya
+
+h. Outside
+   Saya sendiri ada menggunakan sarana lain seperti WSL 2 ketika bekerja di luar git karena git saya berada di dalam badak dan terkadang saya mengerjakan di WSL karena badak sedang down
+
+i. Akun GitHub OS201 Bersama
+   Untuk peserta yang terlambat mendaftar, hal tersebut mungkin terjadi karena minimnya kegiatan / tugas pada OS sehingga mahasiswa cenderung melupakan OS dan mengerjakan mata kuliah lain
+   Mahasiswa yang terlambat masuk juga mungkin terjadi karena ada beberapa mahasiswa yang cukup sibuk ketika berada di rumah ketimbang ketika di kos, atau juga mungkin hal tersebut juga terjadi
+   karena masalah kuota yang tidak mencukupi untuk pemakaian setiap hari
+
+j. GitHub Page
+   Sudah dijabarkan di atas
+
+k. SHASUM dan SHA1SUM.asc
+   Sudah dijabarkan di atas
+
+l. Race condition
+   Race condition terjadi karena ketika Pak RMS menginstruksikan mahasiswa untuk melakukan absen, mahasiswa langsun melakukan absen karena mereka takut jika menunda hal tersebut akan mengakibatkan
+   lupa mengabsen. Saran dari saya mungkin bisa diingatkan ke mahasiswa agar mengecek kembali file setelah di push karena waktu yang diberikan adalah 1 hari sehingga mahasiswa memiliki waktu yang
+   sangat panjang untuk mengecek kembali file absensi
+
+m. Absen
+   Ada beberapa mahasiswa yang absen pada saat menjelang semester berakhir mungkin karena mereka memiliki masalah pada koneksi, karena menurut saya mahasiswa yang telat absen sampai menjelang UAS
+   biasanya juga menghilang pada mata kuliah lain juga. Sehingga prediksi saya adalah mungkin karena keterbatasan kuota yang menyebabkan mahasiswa menjadi menghilang
+
+n. Persiapan UAS
+   Sudah dijabarkan di atas
+
+o. UAS Tahap 1
+   Sudah dijabarkan di atas
+
+p. UAS Tahap 2
+   Sudah dijabarkan di atas
+
+q. UAS Tahap 3
+   Sudah dijabarkan di atas
+
+r. UAS Tahap 4
+   Sudah dijabarkan di atas
+
+s. UAS Tahap 5
+   Sudah dijabarkan di atas
+
+t. Pembentukan Kelompok
+   Menurut saya, pembentukan kelompok pada OS201 tidak begitu efektif karena jumlah anggota yang terlalu banyak sehingga menyebabkan banyaknya free rider. Mungkin dengan mengecilkan jumlah anggota
+   dapat menyebabkan free rider yang semakin berkurang
+
+u. SCELE
+   Mungkin menurut saya banyak mahasiswa yang tidak terbiasa dengan belajar mandiri, sehingga mereka butuh dosen untuk menjelaskan tentang materi, sehingga ketika Pak RMS membuat thread, hanya
+   sedikit mahasiswa yang bisa menjawabnya.
+   Untuk sedikitnya pertanyaan yang ditanyakan mungkin itu juga terjadi karena mahasiswa yang tidak mandiri untuk belajar materinya.
+   Untuk masalah thread, terkadang mahasiswa memiliki pertanyaan yang mirip dengan mahasiswa lain sehingga mereka merasa lebih efektif untuk melanjutkan thread dibandingkan membuat thread baru
+
+v. GitHub
+   Sudah dijabarkan di atas
+
+
+
+
 Sekian analisis saya dari pelaksanaan OS201 pada semester ini
 
 Terima kasih
